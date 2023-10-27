@@ -1,0 +1,2 @@
+La verdad me costó esta tarea. Me cuesta entender cómno insertar correctamente el archivo csv a Colab, y tuve muchos errores antes de llegar a que apareciera un gráfico. Mi proceso simplemente fue ir siguiendo los pasos que se habían hecho en el Pandas de Harry Potter. No me funcionó textual, así que tuve que ir cambiando cosas con ensayo y error hasta que finalmente me funcionó. El gráfico no terminó estando lo más optimizado posible pero al final fue lo que pude hacer. 
+
