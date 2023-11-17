@@ -2,6 +2,6 @@ Hice mi currículum en base a las experiencias de mi vida aunque no han sido muc
 Para hacer el currículum fui poniendo toda la información en el html, pero no me salió el link que quería poner.
 Para el css puse un color bonito que me gustó abajo.
 
-Link: file:///C:/Users/santi/Downloads/Index.html 
+Link: https://santigriezmann.github.io/Sitio-web/ 
 
 Repositorio archivos: https://github.com/SantiGriezmann/Mi_primer_sitio 
